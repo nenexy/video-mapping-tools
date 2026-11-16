@@ -1,0 +1,9 @@
+*.mp4
+*.mov
+src/
+screens_hap/
+screens/
+shots/
+otklik.txt
+.DS_Store
+__pycache__/
